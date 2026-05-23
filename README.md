@@ -18,7 +18,7 @@ A modern Fitness Planner web application developed using PHP, MySQL, HTML, CSS, 
 - JavaScript
 
 ## Project Screenshots
-(Add screenshots here later)
+(![Dashboard](screenshots/Dashboard.png))
 
 ## Author
 Ankit Singh
